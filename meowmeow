@@ -1,0 +1,31 @@
+
+{
+    "users": [
+
+
+
+    
+        {
+            "name": "User1",
+            "hwid": "hwid_example_1",
+            "expiry_date": "2025-12-31",
+            "status": "unbanned"
+        },
+
+
+
+        
+        {
+            "name": "User2",
+            "hwid": "hwid_example_2",
+            "expiry_date": "2025-11-30",
+            "status": "banned"
+        },
+
+
+
+
+
+        
+    ]
+}
