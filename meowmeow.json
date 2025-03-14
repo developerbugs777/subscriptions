@@ -3,7 +3,7 @@
     "username": "meow",
     "password": "1",
     "hwid": "2F8653841283C7DB14924A82E6EE21F8D0D084AC5BDA248B502E89FC6C10ED6C",
-    "isBanned": false,
+    "isBanned": true,
     "expiryDate": "2025-12-31T23:59:59"
   },
   {
